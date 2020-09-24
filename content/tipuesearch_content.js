@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '鈴木刺身', 'text': '\n \n \n', 'tags': '', 'url': '鈴木刺身.html'}]};
+var tipuesearch = {"pages": [{'title': '鈴木刺身', 'text': '\n 訂閱鈴木刺身 https://www.youtube.com/channel/UCrNLoRcQHl0dtqYLj0jl7Yg?view_as=subscriber \n https://www.youtube.com/watch?v=PK5lPAj0yQE 喜歡案讚訂閱分享 \n \n \n', 'tags': '', 'url': '鈴木刺身.html'}]};
